@@ -15,7 +15,7 @@ bool zoneD = false;
 bool zoneE = false;
 
 float angWidthCenter = 25.;
-float angWidthSide = 30.;
+float angWidthSide = 50.;
 
 string chromosome = "0ENESENEW0W0W0000000000000000000";
 float formationNormal = 0.;
